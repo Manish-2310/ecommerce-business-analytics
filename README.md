@@ -34,3 +34,15 @@ Excel → SQL Database → Python Analysis → Power BI Dashboard
 - Average delivery time optimized around 4 days.
 
 ---
+
+---
+
+## 🖼 Dashboard Preview
+![Dashboard](images/page1.png)
+
+
+---
+
+## 👨‍💻 Author
+MANISH SHARMA
+
